@@ -1,5 +1,5 @@
 public class Circle {
-    public Point centre = new Point();
+    public Point centre;
 
     public void setCenterX(double x){
         this.centre.x = x;
